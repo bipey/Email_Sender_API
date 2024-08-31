@@ -1,7 +1,7 @@
 import express from "express";
 import nodemailer from "nodemailer";
 import 'dotenv/config';
-import maildev from "maildev";
+
 
 const app = express();
 app.use(express.json());
