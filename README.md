@@ -1,5 +1,4 @@
-# Email_Sender_API
-api for sending email using node js
+
 This is a simple Node.js application that sends emails using the Gmail SMTP server. The application is built using Express.js and Nodemailer.
 
 #Features
